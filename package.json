@@ -1,0 +1,21 @@
+{
+  "name": "@leonz3/npmum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "npmum": "bin/cli.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "ini": "^3.0.1",
+    "inquirer": "^7.3.3"
+  }
+}
